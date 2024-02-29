@@ -1,0 +1,14 @@
+{
+  "name": "com.bennyght.buildsystem",
+  "version": "1.0.0",
+  "displayName": "BenNyght's Build System",
+  "description": "Simple Unity Build Scripts and Build Reporter. Works with Github Actions.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/BenNyght/Unity-Build-Package",
+  "licensesUrl": "https://github.com/BenNyght/Unity-Build-Package",
+   "author": {
+    "name": "Benjamin Finlay",
+    "url": "https://github.com/BenNyght"
+   }
+}
