@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 
-namespace UnityBuilderAction
+namespace BenNyght.Utility.Editor
 {
 	public static class CommandLineParser
 	{

@@ -1,0 +1,16 @@
+{
+    "name": "BenNyght.Reporter.Editor",
+    "rootNamespace": "BenNyght.Reporter.Editor",
+    "references": ["GUID:bc526f84fc277494f91d82513e619d29"],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

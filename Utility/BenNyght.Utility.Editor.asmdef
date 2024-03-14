@@ -1,6 +1,6 @@
 {
-    "name": "BenNyght.BuildSystem.Editor",
-    "rootNamespace": "BenNyght.BuildSystem.Editor",
+    "name": "BenNyght.Utility.Editor",
+    "rootNamespace": "BenNyght.Utility.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
